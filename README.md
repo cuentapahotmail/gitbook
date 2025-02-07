@@ -17,7 +17,7 @@ layout:
 
 #### <mark style="color:yellow;">DESCUBRE NUEVAS OPORTUNIDADES</mark>
 
-#### <font color="#ff6633">DESCUBRE NUEVAS OPORTUNIDADES</font>
+#### <font color="#ff6633">*** DESCUBRE NUEVAS OPORTUNIDADES ***</font>
 
 ## CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO
 

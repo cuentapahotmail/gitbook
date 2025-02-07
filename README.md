@@ -15,36 +15,41 @@ layout:
 
 # Bee
 
-# CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (1)
+<mark style="color:yellow;">**DESCUBRE NUEVAS OPORTUNIDADES**</mark>
 
-## CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (2)
-
-### CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (3)
-
-#### CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (4)
-
-##### CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (5)
-
-###### CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (6)
-
-####### CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO (7)
-
-#### <mark style="color:yellow;">DESCUBRE NUEVAS OPORTUNIDADES</mark>
-
-#### <font color="#ff6633">*** DESCUBRE NUEVAS OPORTUNIDADES ***</font>
+## CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO
 
 
-#### Rentabiliza la comunicacion con tu público y recopila información valiosa para tomar decisiones cruciales
+
+**Rentabiliza la comunicacion con tu público y recopila información valiosa para tomar decisiones cruciales**
+
+
+
+
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center">Centrate</td></tr></tbody></table>
+
+{% hint style="info" %}
+Contáctanos
+{% endhint %}
+
+{% hint style="warning" %}
+Contáctanos
+{% endhint %}
+
+{% hint style="danger" %}
+Contáctanos
+{% endhint %}
+
+{% hint style="success" %}
+Contáctanos
+{% endhint %}
 
 ***
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4></h4></td><td></td></tr><tr><td></td><td><a href=".gitbook/assets/features1.png">features1.png</a></td></tr></tbody></table>
-
-
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-type="checkbox"></th></tr></thead><tbody><tr><td></td><td>true</td></tr><tr><td></td><td>true</td></tr></tbody></table>
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Llámanos ahora mismo para obtener más información</td><td align="center"><a href="tel:+56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact1.png">contact1.png</a></td></tr><tr><td align="center">Envíanos un correo y estaremos encantados en atenderte</td><td align="center"><a href="mailto:hola@beehappy.dev">hola@beehappy.dev</a></td><td><a href=".gitbook/assets/contact2.png">contact2.png</a></td></tr><tr><td align="center">Textéanos y te responderemos enseguida</td><td align="center"><a href="https://api.whatsapp.com/send?phone=:56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact3.png">contact3.png</a></td></tr></tbody></table>
-
-
 
 <details>
 
@@ -53,3 +58,8 @@ layout:
 
 
 </details>
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |

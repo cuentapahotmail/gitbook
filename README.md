@@ -19,8 +19,6 @@ layout:
 
 ## CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO
 
-
-
 **Rentabiliza la comunicacion con tu público y recopila información valiosa para tomar decisiones cruciales**
 
 ***
@@ -45,23 +43,45 @@ layout:
 
 ### CLAVES PARA UNA COMUNICACIÓN DE CALIDAD
 
-{% stepper %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/Modelo de abeja 2-diagram1.png">Modelo de abeja 2-diagram1.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td>{% stepper %}
 {% step %}
 **Cercanía - Profesionales multidisciplinarios conectados**
 
-Contamos con un equipo multidisciplinario que trabaja en conjunto para que nuestro agente inteligente sea empático, informativo y agradable.
+Contamos con un equipo multidisciplinario que trabaja en conjunto para que nuestro agente inteligente sea empático,
+informativo y agradable.
 {% endstep %}
 
 {% step %}
 **Metodología - Procesos de trabajo y mejora continua**
 
-Tenemos un proceso estructurado que garantiza la definición de objetivos claros, el análisis de las necesidades de los clientes y su desarrollo en el tiempo.
+Tenemos un proceso estructurado que garantiza la definición de objetivos claros, el análisis de las necesidades de los
+clientes y su desarrollo en el tiempo.
+{% endstep %}
+
+{% step %}
+</td><td></td></tr></tbody></table>
+
+
+{% stepper %}
+{% step %}
+**Cercanía - Profesionales multidisciplinarios conectados**
+
+Contamos con un equipo multidisciplinario que trabaja en conjunto para que nuestro agente inteligente sea empático,
+informativo y agradable.
+{% endstep %}
+
+{% step %}
+**Metodología - Procesos de trabajo y mejora continua**
+
+Tenemos un proceso estructurado que garantiza la definición de objetivos claros, el análisis de las necesidades de los
+clientes y su desarrollo en el tiempo.
 {% endstep %}
 
 {% step %}
 **Tecnología - Asistencia virtual con inteligencia artificial**
 
-Disponemos de una plataforma robusta y escalable que nos permite la integración con otros sistemas y aplicaciones potenciada por el aprendizaje automático.
+Disponemos de una plataforma robusta y escalable que nos permite la integración con otros sistemas y aplicaciones
+potenciada por el aprendizaje automático.
 {% endstep %}
 {% endstepper %}
 

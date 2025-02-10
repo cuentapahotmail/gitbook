@@ -23,9 +23,15 @@ layout:
 
 **Rentabiliza la comunicacion con tu público y recopila información valiosa para tomar decisiones cruciales**
 
-<figure><img src=".gitbook/assets/features1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/features1.png" alt="" width="188"><figcaption></figcaption></figure>
 
-<table><thead><tr><th align="center"></th><th data-type="content-ref"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"></td><td><a href="./#elige-como-contactarnos">#elige-como-contactarnos</a></td><td align="center"></td></tr></tbody></table>
+|                                               |
+| :-------------------------------------------: |
+| [↓ CONTÁCTANOS ↓](./#elige-como-contactarnos) |
+
+<figure><img src=".gitbook/assets/logotype3.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -105,8 +111,8 @@ Disponemos de una plataforma robusta y escalable que nos permite la integración
 
 ### ELIGE CÓMO CONTACTARNOS
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Llámanos ahora mismo para obtener más información</td><td align="center"><a href="tel:+56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact1.png">contact1.png</a></td></tr><tr><td align="center">Envíanos un correo y estaremos encantados en atenderte</td><td align="center"><a href="mailto:hola@beehappy.dev">hola@beehappy.dev</a></td><td><a href=".gitbook/assets/contact2.png">contact2.png</a></td></tr><tr><td align="center">Textéanos y te responderemos enseguida</td><td align="center"><a href="https://api.whatsapp.com/send?phone=:56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact3.png">contact3.png</a></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Llámanos ahora mismo para obtener más información</td><td align="center"><a href="tel:+56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact-call.png">contact-call.png</a></td></tr><tr><td align="center">Envíanos un correo y estaremos encantados en atenderte</td><td align="center"><a href="mailto:hola@beehappy.dev">hola@beehappy.dev</a></td><td><a href=".gitbook/assets/contact-write.png">contact-write.png</a></td></tr><tr><td align="center">Textéanos y te responderemos enseguida</td><td align="center"><a href="https://api.whatsapp.com/send?phone=:56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact-text.png">contact-text.png</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Ven a conocernos y tomémonos un rico café</td><td><a href="http://www.www.www">Avenida Apoquindo 5950, Las Condes</a></td><td></td><td><a href=".gitbook/assets/contact4.png">contact4.png</a></td></tr><tr><td></td><td>→ Instagram</td><td>→ Facebook</td><td></td></tr><tr><td><strong>MÁS INFORMACIÓN</strong></td><td><a href="https://beehappy.dev/politica-de-privacidad">Política de Privacidad</a></td><td><a href="https://beehappy.dev/terminos-y-condiciones">Términos y Condiciones</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Ven a conocernos y tomémonos un rico café</td><td><a href="http://www.www.www">Avenida Apoquindo 5950, Las Condes</a></td><td></td><td><a href=".gitbook/assets/contact-visit.png">contact-visit.png</a></td></tr><tr><td></td><td>→ Instagram</td><td>→ Facebook</td><td></td></tr><tr><td><strong>MÁS INFORMACIÓN</strong></td><td><a href="https://beehappy.dev/politica-de-privacidad">Política de Privacidad</a></td><td><a href="https://beehappy.dev/terminos-y-condiciones">Términos y Condiciones</a></td><td></td></tr></tbody></table>
 
 **Derechos reservados © 2025** [**BeeHappy.dev**](https://beehappy.dev/)

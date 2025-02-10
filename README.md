@@ -25,7 +25,7 @@ layout:
 
 <figure><img src=".gitbook/assets/features1.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th align="center"></th><th align="center"></th><th data-type="content-ref"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td><a href="./#elige-como-contactarnos">#elige-como-contactarnos</a></td><td align="center"></td></tr></tbody></table>
+<table><thead><tr><th align="center"></th><th data-type="content-ref"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"></td><td><a href="./#elige-como-contactarnos">#elige-como-contactarnos</a></td><td align="center"></td></tr></tbody></table>
 
 ***
 

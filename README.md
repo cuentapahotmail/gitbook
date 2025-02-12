@@ -113,6 +113,8 @@ Disponemos de una plataforma robusta y escalable que nos permite la integración
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Llámanos ahora mismo para obtener más información</td><td align="center"><a href="tel:+56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact-1.png">contact-1.png</a></td></tr><tr><td align="center">Envíanos un correo y estaremos encantados en atenderte</td><td align="center"><a href="mailto:hola@beehappy.dev">hola@beehappy.dev</a></td><td><a href=".gitbook/assets/contact-2.png">contact-2.png</a></td></tr><tr><td align="center">Textéanos y te responderemos enseguida</td><td align="center"><a href="https://api.whatsapp.com/send?phone=:56977533622">+56 977 533 622</a></td><td><a href=".gitbook/assets/contact-3.png">contact-3.png</a></td></tr><tr><td align="center">Ven a visitanos y tomémonos un rico café</td><td align="center"><a href="http://www.www.www">Avenida Apoquindo 5950, Las Condes</a></td><td><a href=".gitbook/assets/contact-4.png">contact-4.png</a></td></tr></tbody></table>
 
+***
+
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>MÁS INFORMACIÓN</strong></td><td><a href="https://beehappy.dev/politica-de-privacidad">Política de Privacidad</a></td><td><a href="https://beehappy.dev/terminos-y-condiciones">Términos y Condiciones</a></td><td></td></tr></tbody></table>
 
 **Derechos reservados © 2025** [**BeeHappy.dev**](https://beehappy.dev/)

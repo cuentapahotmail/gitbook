@@ -69,9 +69,15 @@ layout:
 **Satisface a tus clientes:** Con una disponibilidad 24/7, tus clientes pueden obtener ayuda cuando la necesitan de forma rápida y precisa; proporcionándoles una experiencia de atención personalizada, ¡lo que hace que tus clientes se sientan valorado
 {% endhint %}
 
-<table><thead><tr><th align="center" valign="middle"></th></tr></thead><tbody><tr><td align="center" valign="middle"><mark style="color:yellow;"><strong>ALCANZA TUS METAS</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th align="center" valign="middle"></th></tr></thead><tbody><tr><td align="center" valign="middle"><mark style="color:yellow;"><strong>REDUCE LOS TIEMPOS DE ESPERA</strong></mark></td></tr></tbody></table>
+
+### MULTIPLES CANALES PARA TODOS TUS CLIENTES
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/diagram-5.png">diagram-5.png</a></td></tr><tr><td>En la actualidad, los clientes esperan poder comunicarse con las empresas a través de variadas formas, como el teléfono, el correo electrónico, las redes sociales y el chat en vivo.</td><td>Por otro lado, las empresas que ofrecen múltiples canales de comunicación a sus clientes están en una mejor posición para proporcionar una experiencia de servicio de alta calidad y aumentar su satisfacción.</td><td><mark style="color:yellow;"><strong>¡Dales el poder de conectarse contigo de la forma que les resulte más conveniente!</strong></mark></td><td></td></tr></tbody></table>
+
+|                                                          |
+| :------------------------------------------------------: |
+| <mark style="color:yellow;">**ALCANZA TUS METAS**</mark> |
 
 ### CLAVES PARA UNA COMUNICACIÓN DE CALIDAD
 

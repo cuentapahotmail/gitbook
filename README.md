@@ -23,9 +23,9 @@ layout:
 
 **Rentabiliza la comunicacion con tu público y recopila información valiosa para tomar decisiones cruciales**
 
-<figure><img src=".gitbook/assets/logotype.png" alt=""><figcaption></figcaption></figure>
-
 ***
+
+<figure><img src=".gitbook/assets/logotype (1).png" alt=""><figcaption></figcaption></figure>
 
 |                                                                     |
 | :-----------------------------------------------------------------: |
@@ -33,7 +33,7 @@ layout:
 
 ### 1. RESPUESTAS RÁPIDAS Y PRECISAS
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/diagram-1.png">diagram-1.png</a></td></tr><tr><td>Minimiza las esperas al máximo: respuestas al instante y ultra precisas. Nuestro agente inteligente despliega su magia con machine learning y un motor NLP de alto calibre, decodificando a la perfección las preguntas de los usuarios y orquestando respuestas que dan en el clavo.</td><td>Prepárate para una experiencia de cliente que brilla y di adiós a la frustración, porque los tiempos de espera se reducen a la nada. ¡Bienvenido a un nuevo nivel de satisfacción!.</td><td><mark style="color:yellow;"><strong>✔</strong></mark> <strong>Atención personalizada las 24 horas del día</strong></td><td><mark style="color:yellow;"><strong>✔</strong></mark> <strong>Reduce los tiempos de espera al mínimo</strong></td><td><mark style="color:yellow;"><strong>✔</strong></mark> <strong>Respuestas hechas a la medida de tus necesidades</strong></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td><a href=".gitbook/assets/diagram-1 (1).png">diagram-1 (1).png</a></td></tr><tr><td>Minimiza las esperas al máximo: respuestas al instante y ultra precisas. Nuestro agente inteligente despliega su magia con machine learning y un motor NLP de alto calibre, decodificando a la perfección las preguntas de los usuarios y orquestando respuestas que dan en el clavo.</td><td>Prepárate para una experiencia de cliente que brilla y di adiós a la frustración, porque los tiempos de espera se reducen a la nada. ¡Bienvenido a un nuevo nivel de satisfacción!.</td><td><mark style="color:yellow;"><strong>✔</strong></mark> <strong>Atención personalizada las 24 horas del día</strong></td><td><mark style="color:yellow;"><strong>✔</strong></mark> <strong>Reduce los tiempos de espera al mínimo</strong></td><td><mark style="color:yellow;"><strong>✔</strong></mark> <strong>Respuestas hechas a la medida de tus necesidades</strong></td><td></td></tr></tbody></table>
 
 |                                                                          |
 | :----------------------------------------------------------------------: |
@@ -59,7 +59,7 @@ layout:
 
 ### REDUCCION DE COSTOS Y VALORACIÓN DEL CLIENTE
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/diagram-4.png">diagram-4.png</a></td></tr><tr><td>¿Quieres impulsar tu negocio y mejorar la experiencia de tus clientes al mismo tiempo? Descubre cómo nuestra tecnología puede ser tu aliado estratégico para alcanzar el éxito.</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td>¿Quieres impulsar tu negocio y mejorar la experiencia de tus clientes al mismo tiempo? Descubre cómo nuestra tecnología puede ser tu aliado estratégico para alcanzar el éxito.</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Ahorra dinero:** Nuestro Agente Inteligente puede gestionar las consultas de tus clientes de forma automatizada, ¡así que tus agentes humanos pueden centrarse en otras cosas!

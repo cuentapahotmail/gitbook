@@ -15,9 +15,9 @@ layout:
 
 # Bee
 
-|                                                                                                             |
-| :---------------------------------------------------------------------------------------------------------: |
-| <mark style="color:yellow;">**DESCUBRE NUEVAS OPORTUNIDADE**</mark><mark style="color:yellow;">**S**</mark> |
+|                                                                      |
+| :------------------------------------------------------------------: |
+| <mark style="color:orange;">**DESCUBRE NUEVAS OPORTUNIDADES**</mark> |
 
 ## CONECTA CON TUS CLIENTES E IMPULSA TU NEGOCIO
 
@@ -85,7 +85,7 @@ layout:
 
 {% stepper %}
 {% step %}
-<mark style="color:yellow;">**Cercanía:**</mark>**&#x20;Profesionales multidisciplinarios conectados**
+<mark style="color:orange;">**Cercanía:**</mark>**&#x20;Profesionales multidisciplinarios conectados**
 
 Contamos con un equipo multidisciplinario que trabaja en conjunto para que nuestro agente inteligente sea empático, informativo y agradable.
 {% endstep %}
